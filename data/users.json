@@ -1,0 +1,44 @@
+[
+    {
+		"name": "henry",
+		"email": "henry123@gmail.com",
+		"password":"henry1234",
+        "role": "publisher"
+	},
+	{
+		"name": "joshua",
+		"email": "joshua@gmail.com",
+		"password":"joshua1234",
+        "role": "publisher"
+	},
+	{
+		"name": "Kiran",
+		"email": "Kiran@gmail.com",
+		"password":"Kiran1234",
+        "role": "publisher"
+	},
+	{
+		"name": "tessa",
+		"email": "tessa@gmail.com",
+		"password":"tessa1234",
+        "role": "publisher"
+	},
+	{
+		"name": "nessa",
+		"email": "nessa@gmail.com",
+		"password":"nessa1234",
+        "role": "publisher"
+	},
+	{
+		"name": "nithya",
+		"email": "nithya12@gmail.com",
+		"password":"nithya1234",
+        "role": "publisher"
+	},
+	{
+		"name": "izak",
+		"email": "izak@yahoo.com",
+		"password":"izak1234",
+        "role": "publisher"
+	}
+	]

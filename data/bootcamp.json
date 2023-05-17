@@ -1,0 +1,31 @@
+[
+    {
+		"name": "red",
+		"description": "#f00"
+	},
+	{
+		"name": "green",
+		"description": "#0f0"
+	},
+	{
+		"name": "blue",
+		"description": "#00f"
+	},
+	{
+		"name": "cyan",
+		"description": "#0ff"
+	},
+	{
+		"name": "magenta",
+		"description": "#f0f"
+	},
+	{
+		"name": "yellow",
+		"description": "#ff0"
+	},
+	{
+		"name": "black",
+		"description": "#000"
+	}
+	]
+	
